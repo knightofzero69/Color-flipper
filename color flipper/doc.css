@@ -1,0 +1,46 @@
+*{
+    font-family: 'Inter';
+    
+}
+
+.body{
+    background-color: rgba(255, 0, 0, 0.893);
+
+}
+
+.heading{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.671);
+    padding: 20px 18px;
+    margin-bottom: 16px;
+    font-size: 32px;
+
+}
+
+.btn-class{
+    width: 90px;
+margin: auto;
+}
+
+.btn{
+    padding: 4px 8px;
+    border-radius: 5px;
+    height: 40px;
+    width: auto;
+}
+
+.btn:active,.btn:hover{
+    background-color: aliceblue;
+    cursor:pointer;
+    
+}
+
+.content{
+    width: 600px;
+    margin: 300px auto;
+}
+
+.color-name{
+    display: inline;
+    background-color: black;
+}
